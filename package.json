@@ -4,9 +4,25 @@
   "description": "A simple Node.js project for testing",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests --recursive",
+    "mocha": "^10.0.0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmwall/test-project.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devmwall/test-project/issues"
+  },
+  "homepage": "https://github.com/devmwall/test-project#readme",
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
 }
