@@ -1,0 +1,3 @@
+Completed by mock backend for quick-001:summarize (llm_summary)
+
+Create a minimal Python project skeleton quickly.
