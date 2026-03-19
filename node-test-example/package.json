@@ -1,0 +1,12 @@
+{
+  "name": "node-test-example",
+  "version": "1.0.0",
+  "description": "Example Node project for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
