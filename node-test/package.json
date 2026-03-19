@@ -1,5 +1,5 @@
 {
-  "name": "node-test",
+  "name": "test",
   "version": "1.0.0",
   "description": "Simple Node test project",
   "main": "index.js",
@@ -7,5 +7,10 @@
     "test": "node test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "type": "commonjs"
 }
